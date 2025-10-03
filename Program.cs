@@ -1,17 +1,27 @@
-namespace formulario
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Calculadora2
 {
-    internal static class Program
+    internal class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
-        }
-    }
-}
+            int num1, num2;
+            console.writeline("Enter first number:");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            console.writeline("Enter second number:");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            console.writeline("seleccionar opción:");
+            console.writeline("ta-suma");
+            console.writeline("tb-resta");
+            console.writeline("tc-multiplicación");
+            console.writeline("td-división");
+            switch (Console.ReadLine())
+            {
+                case "a":
+                    console.writeline($ "El resultado
+           

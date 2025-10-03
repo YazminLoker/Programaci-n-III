@@ -1,0 +1,7 @@
+C:\Users\54116\source\repos\listdo\listdo\bin\Debug\listdo.exe.config
+C:\Users\54116\source\repos\listdo\listdo\bin\Debug\listdo.exe
+C:\Users\54116\source\repos\listdo\listdo\bin\Debug\listdo.pdb
+C:\Users\54116\source\repos\listdo\listdo\obj\Debug\listdo.csproj.AssemblyReference.cache
+C:\Users\54116\source\repos\listdo\listdo\obj\Debug\listdo.csproj.CoreCompileInputs.cache
+C:\Users\54116\source\repos\listdo\listdo\obj\Debug\listdo.exe
+C:\Users\54116\source\repos\listdo\listdo\obj\Debug\listdo.pdb
